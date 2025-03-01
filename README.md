@@ -30,7 +30,7 @@ Aqui, você encontrará uma coleção de exercícios separados por tópicos, cad
 ## 🏷️ Tópicos de Exercícios
 
 - ✅ Listas
-- ![alt text](image.png) Matriz
+- ⏳ Matriz
 - ⏳ Condicionais (Em breve)
 - ⏳ Laços de Repetição (Em breve)
 - ⏳ Funções (Em breve)
