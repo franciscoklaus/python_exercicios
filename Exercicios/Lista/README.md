@@ -99,10 +99,5 @@ Todas as resoluções foram implementadas no arquivo `Respostas.py`, localizado 
 
 ---
 
-## 📄 Licença
-
-Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
 
 💻 Feito com ❤️ para ajudar no aprendizado de Python.
