@@ -18,9 +18,9 @@ Aqui, você encontrará uma coleção de exercícios separados por tópicos, cad
 │   ├── 📂 Lista
 │   │   ├── 📑 README.md   # Descrição dos exercícios sobre Listas
 │   │   └── 💻 Respostas.py # Resolução dos exercícios sobre Listas
-│   ├── 📂 Condicionais
-│   │   ├── 📑 README.md   # Descrição dos exercícios sobre Condicionais
-│   │   └── 💻 Respostas.py # Resolução dos exercícios sobre Condicionais
+│   ├── 📂 Matriz
+│   │   ├── 📑 README.md   # Descrição dos exercícios sobre Matriz
+│   │   └── 💻 Respostas.py # Resolução dos exercícios sobre Matriz
 │   └── (Outros tópicos futuramente...)
 ├── 📜 README.md  # Este arquivo (Descrição geral do repositório)
 ```
