@@ -21,7 +21,7 @@ Este diretório contém uma série de exercícios sobre Dicionarios em Python.
 ```python
 dicionario = {"Nome":"","Idade":0,"Curso":"","Matrícula":""}
 ```
-Imprima o dicionário.  
+*Imprima o dicionário.*  
 ---
 
 ### 2 - Com base no dicionário criado no exercício anterior, altere o curso do aluno para "Engenharia de Software" e depois imprima apenas o valor da chave "Curso".
@@ -38,7 +38,6 @@ texto = "python é divertido e python é poderoso"
 ```python
 {'python': 2, 'é': 2, 'divertido': 1, 'e': 1, 'poderoso': 1}
 ```
-
 ---
 
 ### 5 - Crie dois dicionários e depois crie um terceiro dicionário que seja a fusão dos dois:
@@ -58,7 +57,7 @@ notas = {'Ana': [8, 7, 9], 'Pedro': [5, 6, 7], 'Maria': [9, 9, 10]}
 ```python
 dicionario = {'chave1': 'valor1', 'chave2': 'valor2'}
 ```
-*Resultado esperado:
+*Resultado esperado*
 ```python
 {'valor1': 'chave1', 'valor2': 'chave2'}
 ```
