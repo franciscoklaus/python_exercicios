@@ -24,6 +24,9 @@ Aqui, você encontrará uma coleção de exercícios separados por tópicos, cad
 |   ├── 📂 Algoritmos
 │   │   ├── 📑 README.md   # Descrição dos exercícios sobre Algoritmos
 │   │   └── 💻 Respostas.py # Resolução dos exercícios sobre Algoritmos
+|   ├── 📂 Dicionarios
+│   │   ├── 📑 README.md   # Descrição dos exercícios sobre Dicionarios
+│   │   └── 💻 Respostas.py # Resolução dos exercícios sobre Dicionarios
 │   └── (Outros tópicos futuramente...)
 ├── 📜 README.md  # Este arquivo (Descrição geral do repositório)
 ```
@@ -37,7 +40,7 @@ Aqui, você encontrará uma coleção de exercícios separados por tópicos, cad
 - ⏳ Condicionais (Em breve)
 - ⏳ Laços de Repetição (Em breve)
 - ⏳ Funções (Em breve)
-- ⏳ Dicionários (Em breve)
+- ⏳ Dicionários (Em desenvolvimento)
 - E muito mais!
 
 ---
