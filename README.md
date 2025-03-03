@@ -40,7 +40,7 @@ Aqui, você encontrará uma coleção de exercícios separados por tópicos, cad
 - ⏳ Condicionais (Em breve)
 - ⏳ Laços de Repetição (Em breve)
 - ⏳ Funções (Em breve)
-- ⏳ Dicionários (Em desenvolvimento)
+- ✅ Dicionários
 - E muito mais!
 
 ---
