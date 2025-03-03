@@ -43,3 +43,46 @@ dicionario_novo = {}
 for chave, valor in dicionario.items():
     dicionario_novo[valor] = chave
 print(dicionario_novo)
+
+# 8
+dicionario_produtos = {}
+menu = int(input(
+    "Digite 1 para adicionar um produto, 2 atualizar a quantidade de um produto ou 3 para sair: "))
+while menu != 3:
+    if menu == 1:
+        produto = input("Digite o nome do produto: ")
+        quantidade = int(input("Digite a quantidade do produto: "))
+        dicionario_produtos[produto] = quantidade
+    elif menu == 2:
+        produto = input("Digite o nome do produto: ")
+        quantidade = int(input("Digite a quantidade do produto: "))
+        dicionario_produtos[produto] = quantidade
+    menu = int(input(
+        "Digite 1 para adicionar um produto, 2 atualizar a quantidade de um produto ou 3 para sair: "))
+print(dicionario_produtos)
+
+
+# 9
+precos = {"produto1": 30, "produto2": 60, "produto3": 90, "produto4": 20}
+precos_maiores50 = {}
+for chave, valor in precos.items():
+    if valor > 50:
+        precos_maiores50[chave] = valor
+print(precos_maiores50)
+
+# usando compreensão de dicionário
+precos_maiores50 = {chave: valor for chave,
+                    valor in precos.items() if valor > 50}
+
+
+# 10
+
+pessoas = {"Carlos": {"Idade": 25, "cidade": "São Paulo", "profissão": "Engenheiro"},
+           "Ana": {"Idade": 30, "cidade": "Rio de Janeiro", "profissão": "Advogada"},
+           "Maria": {"Idade": 35, "cidade": "Curitiba", "profissão": "Médica"}}
+
+for chave, valor in pessoas.items():
+    print(f"{chave}:")
+    for chave2, valor2 in valor.items():
+        print(f"\t{chave2}: {valor2}")
+    print("\n")
