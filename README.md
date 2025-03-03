@@ -21,6 +21,9 @@ Aqui, você encontrará uma coleção de exercícios separados por tópicos, cad
 │   ├── 📂 Matriz
 │   │   ├── 📑 README.md   # Descrição dos exercícios sobre Matriz
 │   │   └── 💻 Respostas.py # Resolução dos exercícios sobre Matriz
+|   ├── 📂 Algoritmos
+│   │   ├── 📑 README.md   # Descrição dos exercícios sobre Algoritmos
+│   │   └── 💻 Respostas.py # Resolução dos exercícios sobre Algoritmos
 │   └── (Outros tópicos futuramente...)
 ├── 📜 README.md  # Este arquivo (Descrição geral do repositório)
 ```
@@ -28,9 +31,9 @@ Aqui, você encontrará uma coleção de exercícios separados por tópicos, cad
 ---
 
 ## 🏷️ Tópicos de Exercícios
-
 - ✅ Listas
 - ✅ Matriz
+- ⏳ Algoritmos
 - ⏳ Condicionais (Em breve)
 - ⏳ Laços de Repetição (Em breve)
 - ⏳ Funções (Em breve)
